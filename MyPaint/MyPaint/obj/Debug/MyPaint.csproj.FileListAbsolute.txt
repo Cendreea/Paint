@@ -17,3 +17,4 @@ C:\Users\00jfr01\Documents\Paint\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.Genera
 C:\Users\00jfr01\Documents\Paint\MyPaint\MyPaint\obj\Debug\MyPaint.csproj.CoreCompileInputs.cache
 C:\Users\00jfr01\Documents\Paint\MyPaint\MyPaint\obj\Debug\MyPaint.exe
 C:\Users\00jfr01\Documents\Paint\MyPaint\MyPaint\obj\Debug\MyPaint.pdb
+C:\Users\00jfr01\Documents\Paint\MyPaint\MyPaint\obj\Debug\MyPaint.csprojAssemblyReference.cache
