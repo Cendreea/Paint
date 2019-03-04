@@ -1,0 +1,10 @@
+C:\Users\00eli05\source\repos\FörståPaint\FörståPaint\bin\Debug\FörståPaint.exe.config
+C:\Users\00eli05\source\repos\FörståPaint\FörståPaint\bin\Debug\FörståPaint.exe
+C:\Users\00eli05\source\repos\FörståPaint\FörståPaint\bin\Debug\FörståPaint.pdb
+C:\Users\00eli05\source\repos\FörståPaint\FörståPaint\obj\Debug\FörståPaint.csprojAssemblyReference.cache
+C:\Users\00eli05\source\repos\FörståPaint\FörståPaint\obj\Debug\FörståPaint.Form1.resources
+C:\Users\00eli05\source\repos\FörståPaint\FörståPaint\obj\Debug\FörståPaint.Properties.Resources.resources
+C:\Users\00eli05\source\repos\FörståPaint\FörståPaint\obj\Debug\FörståPaint.csproj.GenerateResource.cache
+C:\Users\00eli05\source\repos\FörståPaint\FörståPaint\obj\Debug\FörståPaint.csproj.CoreCompileInputs.cache
+C:\Users\00eli05\source\repos\FörståPaint\FörståPaint\obj\Debug\FörståPaint.exe
+C:\Users\00eli05\source\repos\FörståPaint\FörståPaint\obj\Debug\FörståPaint.pdb
