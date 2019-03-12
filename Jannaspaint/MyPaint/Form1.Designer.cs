@@ -91,6 +91,7 @@
             this.tbxPenStl.Name = "tbxPenStl";
             this.tbxPenStl.Size = new System.Drawing.Size(168, 22);
             this.tbxPenStl.TabIndex = 6;
+            this.tbxPenStl.Text = "1";
             // 
             // comboBox1
             // 
